@@ -1,0 +1,18 @@
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.deps.json
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.dll
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.pdb
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.csprojAssemblyReference.cache
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.AssemblyInfoInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.AssemblyInfo.cs
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.csproj.CoreCompileInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.dll
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.pdb
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.deps.json
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.dll
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.pdb
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.csprojAssemblyReference.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.AssemblyInfoInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.AssemblyInfo.cs
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.csproj.CoreCompileInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.dll
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Core\obj\Debug\netcoreapp3.1\Zoom.Platform.Core.pdb

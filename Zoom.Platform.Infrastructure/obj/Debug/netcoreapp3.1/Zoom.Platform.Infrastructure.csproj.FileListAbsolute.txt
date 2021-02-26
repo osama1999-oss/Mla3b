@@ -1,0 +1,30 @@
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.deps.json
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.dll
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.pdb
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.csprojAssemblyReference.cache
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.AssemblyInfoInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.AssemblyInfo.cs
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.csproj.CoreCompileInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.dll
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.pdb
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.runtimeconfig.json
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.runtimeconfig.dev.json
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.dll
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.pdb
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.csproj.CopyComplete
+O:\CS\Projects\Final Project\Zoom-Platform\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.genruntimeconfig.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.deps.json
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.runtimeconfig.json
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.runtimeconfig.dev.json
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.dll
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.pdb
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.dll
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\bin\Debug\netcoreapp3.1\Zoom.Platform.Core.pdb
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.csprojAssemblyReference.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.AssemblyInfoInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.AssemblyInfo.cs
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.csproj.CoreCompileInputs.cache
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.csproj.CopyComplete
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.dll
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.pdb
+O:\CS\Projects\Final Project\Zoom-Platform v1.0.0\Zoom.Platform\Zoom.Platform.Infrastructure\obj\Debug\netcoreapp3.1\Zoom.Platform.Infrastructure.genruntimeconfig.cache
